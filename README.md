@@ -1,4 +1,3 @@
-# Data1
-Python Data Science Projects
+# Data Anaysis Practice
 
-Here are some examples of using python for data science. 
+These files show different topics of Data Analysis that I have worked on. Althought these are not personal projects, they have helped me to understand data science and how to approch problems. You can find topics like webscrapping, SQL and big data in these practice examples. The experience that I have gotten from these practice examples has prepared me to do my own projects.
